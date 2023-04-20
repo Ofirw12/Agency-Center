@@ -1,0 +1,101 @@
+Name	Service	Customer	Arrival	Duration
+Katuscha	Backgroundcheck	business	201	2
+Felice	surveillance	government	159	1
+Loree	surveillance	business	185	3
+Tilly	inquiry	private	128	2
+Henriette	surveillance	business	160	5
+Jsandye	missing people	private	226	1
+Benita	inquiry	business	10	5
+Sherrie	missing people	government	29	2
+Gisela	Background check	private	208	2
+Alexine	Background check	government	180	4
+Elka	fraud and illegal activity	private	34	3
+Vevay	surveillance	government	4	1
+Shannah	missing people	private	207	1
+Jacquetta	inquiry	private	199	1
+Barbi	missing people	government	133	1
+Dianemarie	Background check	business	31	4
+Beatriz	surveillance	private	118	5
+Verla	surveillance	private	28	1
+Annora	fraud and illegal activity	private	142	3
+Mathilda	inquiry	business	155	2
+Jemie	missing people	private	239	3
+Karina	missing people	government	168	2
+Glenda	fraud and illegal activity	private	108	2
+Kary	Background check	business	91	4
+Corly	Background check	business	190	4
+Cacilie	Background check	business	144	4
+Genovera	missing people	government	162	3
+Blondelle	fraud and illegal activity	government	121	5
+Jaime	missing people	business	24	5
+Anica	Background check	business	68	4
+Therine	surveillance	business	42	1
+Romona	fraud and illegal activity	private	180	3
+Jany	missing people	business	95	1
+Liana	fraud and illegal activity	private	166	3
+Arlina	Background check	government	197	1
+Annice	inquiry	business	204	2
+Christian	inquiry	business	219	4
+Dale	fraud and illegal activity	government	47	2
+Jillayne	inquiry	business	204	3
+Claudina	fraud and illegal activity	private	98	4
+Monika	fraud and illegal activity	private	139	2
+Annora	missing people	business	217	5
+Tori	inquiry	business	238	1
+Gabriellia	fraud and illegal activity	private	188	5
+Cindelyn	missing people	business	51	3
+Dale	fraud and illegal activity	private	73	1
+Perry	inquiry	business	118	4
+Winny	inquiry	business	178	3
+Britni	fraud and illegal activity	business	1	3
+Desirae	Background check	business	116	4
+Melodie	inquiry	government	28	2
+Lindie	fraud and illegal activity	private	227	3
+Alisha	fraud and illegal activity	private	214	4
+Krystle	surveillance	government	216	4
+Rayna	fraud and illegal activity	government	184	4
+Amara	Background check	private	113	4
+Anica	missing people	private	83	3
+Jessamyn	Background check	government	54	1
+Roseline	fraud and illegal activity	private	150	1
+Lonnie	fraud and illegal activity	private	239	2
+Selma	missing people	business	156	5
+Arlina	surveillance	government	160	1
+Elka	surveillance	business	63	4
+Chrystel	Background check	business	140	5
+Catrina	fraud and illegal activity	private	91	4
+Kate	missing people	business	81	4
+Jennica	surveillance	government	118	2
+Gratia	surveillance	private	122	4
+Aigneis	Background check	business	234	1
+Joleen	missing people	business	103	3
+Hope	surveillance	government	198	5
+Evita	missing people	business	215	5
+Vita	surveillance	government	177	4
+Anestassia	fraud and illegal activity	private	53	3
+Darci	fraud and illegal activity	private	24	2
+Catharine	inquiry	private	38	3
+Grier	Background check	business	197	5
+Harmonia	missing people	government	61	4
+Regina	inquiry	private	109	5
+Giustina	surveillance	private	109	1
+Kara-Lynn	Background check	government	171	3
+Lisette	Background check	private	231	4
+Alexine	missing people	business	133	3
+Meghann	inquiry	government	176	1
+Flory	missing people	government	160	1
+Tabbatha	Background check	private	121	1
+Dania	surveillance	business	209	1
+Harrietta	Background check	business	209	3
+Sue	Background check	government	30	2
+Ginnie	missing people	business	99	1
+Ronna	fraud and illegal activity	business	56	2
+Carolina	Background check	business	139	3
+Doralynne	inquiry	government	110	1
+Gwenneth	inquiry	private	125	3
+Gerianna	inquiry	private	9	2
+Ethel	inquiry	business	234	2
+Odessa	missing people	government	173	2
+Raquela	Background check	private	154	4
+Ashlee	missing people	business	178	3
+Cristine	surveillance	private	100	4
